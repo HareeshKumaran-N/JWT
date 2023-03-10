@@ -1,0 +1,1 @@
+export const secretKey="hareez531hk"; //this the secret key.
